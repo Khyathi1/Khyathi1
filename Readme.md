@@ -19,8 +19,4 @@ Thanks for visiting, and happy coding! 💜✨
 | [SteNotes](https://github.com/Khyathi1/SteNotes) | Local AI meeting-notes tool (Llama 3) |
 | [SkillSync](https://github.com/Khyathi1/SkillSync) | Resume vs. job-description analyzer |
 
-<div align="center">
 
-<img width="680" src="https://raw.githubusercontent.com/Khyathi1/Khyathi1/main/city.svg" alt="3D night city skyline" />
-
-</div>
