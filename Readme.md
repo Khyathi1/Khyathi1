@@ -1,9 +1,3 @@
-<div align="center">
-
-<img width="680" src="https://raw.githubusercontent.com/Khyathi1/Khyathi1/main/city.svg" alt="3D night city skyline" />
-
-</div>
-
 ### Hello, World! 🌃
 
 I'm Khyathi, an AI enthusiast, builder, and lifelong learner.
