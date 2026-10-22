@@ -6,7 +6,7 @@ I enjoy creating things that make technology smarter—from AI assistants and LL
 
 This GitHub is my playground for experimenting, learning, and sharing. I hope something here inspires you, helps you, or simply sparks a new idea.
 
-Thanks for visiting, and happy coding! 💜✨
+Thank you for visiting, and happy coding! 💜✨
 
 ---
 
